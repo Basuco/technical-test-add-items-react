@@ -3,7 +3,7 @@
 - Use ts
 - Create an input and a button to add elements into a list
 - Provide a delete button for each element
-- Implement an end to end test using
+- Implement an end to end test
 - Refactor
 - Change SEO (title, description) of the page
 
